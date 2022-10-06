@@ -8,4 +8,4 @@
 >O loop para as comparaçoes será executado do segundo elemento ao último, os seja, na quantidade de vezes igual ao número de elementos do vetor menos um: ```(for i = 1; i < n; i++).```
 > Enquanto existirem à esquerda do número selecionado para comparaçoes e a posição que atende a ordenaçao que se busca não for encontrada, o loop será executado.
 > O  número selecionado está na posição *i* . 
-> Os números à esquerda do selecionado estão na posiçao de * i - 1* à zero, logo, o loop a ser exercutado será de ``` (j = 1 - 1) ``` e ```(while (j >= 0 && elemento[j] > selecionado) ```.
+> Os números à esquerda do selecionado estão na posiçao de *i - 1* à zero, logo, o loop a ser exercutado será de ``` (j = 1 - 1) ``` e ```(while (j >= 0 && elemento[j] > selecionado) ```.
