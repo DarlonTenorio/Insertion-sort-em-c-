@@ -8,7 +8,7 @@ int main()
 
     for (int i = 0; i <= 4; i++)
     {
-        cout << "Digite o " << i + 1 << "º numero: ";
+        cout << "Digite o " << i + 1 << "º número: ";
         cin >> x[i];  // recebe os números inseridos pelo usuário.
     }
     
